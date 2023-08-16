@@ -1,0 +1,20 @@
+.container1Dark{
+   background-color: #2e3765;
+   color: white;
+   border: '1px solid'
+}
+.container1Red{
+   background-color: #721212;
+   color: white;
+   border: '1px solid'
+}
+.container1Green{
+   background-color: green;
+   color: white;
+   border: '1px solid'
+}
+.container1White{
+   background-color: white;
+   color: black;
+   border: '1px solid'
+}
